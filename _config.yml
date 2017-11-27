@@ -1,0 +1,54 @@
+# Site Settings
+title: Roberto Segura's resume
+url: 'http://phproberto.com'
+baseurl: './' #change it according to your repository name
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+#Profile information
+name: Roberto Segura
+tagline: Senior PHP Developer
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: "I'm a self-taught PHP developer with a hungry brain. I need to create things and I use opensource for all the things! I've contributed to projects like Joomla (currently top 28 contributor), Prestashop & Twitter Bootstrap.
+<br><br>
+I enjoy creating & managing development teams improving the workflow and tools used. Setup healthy development environments to then teach (and learn!) junior devs to get them on board.
+<br><br>
+I've been entrepeneur. That helped me to understand sides of a company: developers and the company itself. Improve developers skills and ship things in time is my secret formula. I'm naturally born to lead and the kind of guy that everybody ends asking for help. Press F1 to connect with me."
+
+#sidebar links
+email: me@phproberto.com
+phone: 0034 636 420 530
+website: phproberto.com #do not add http://
+linkedin-name: roberto-segura
+linkedin: roberto-segura-643a9b40
+github: phproberto
+twitter: '@phproberto'
+location: {
+  name: "Valencia, Spain",
+  url: "https://www.google.com/maps/place/Valencia/@39.4077013,-0.5015955,11z/data=!3m1!4b1!4m5!3m4!1s0xd604f4cf0efb06f:0xb4a351011f7f1d39!8m2!3d39.4699075!4d-0.3762881"
+}
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+# analytics: UA-83979019-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
+
+exclude:
+  - package.json
+  - node_modules
+  - gulpfile.js
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - src 

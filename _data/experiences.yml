@@ -1,0 +1,66 @@
+- experience:
+  role: Lead Developer
+  time: 2015 - 2017
+  company: redCOMPONENT, Odense
+  details: "I joined the company for second time to convert an old content-management tool into a full CCK for <a href=\"http://joomla.org\">Joomla</a> focused on mixing content with marketing tools in the same tool. The result is <a href=\"http://www.aesircontextmarketing.com/\">Aesir</a>.
+  <br><br>
+  My role was to lead the conversion process taking the architectural decisions and managing a team of 5 developers."
+- experience:
+  role: Freelance
+  time: 2014 - 2015
+  details: "Development of custom extensions for Joomla. Integration of <a href=\"https://www.opencart.com/\">OpenCart</a> and
+support for other ecommerce systems based on Joomla like <a href=\"https://www.hikashop.com/\">Hikashop</a>
+Integration and customisation of Bootstrap 2.3.2 & Bootstrap 3 templates.
+Speaker in online hangouts for desarrolloweb.com mostly focused on
+ecommerce systems, Joomla, PHP best practices & Agile solutions.
+Contributed to projects like Joomla (top 25 world contributor), Twitter
+Bootstrap & Prestashop."
+- experience:
+  role: Production Leadership Team member
+  time: 2014
+  company: Joomla!
+  details: "Production Leadership Team was one the three
+ teams (35 people from around the world) managing the Joomla! CMS & Joomla Framework.
+ <br><br>
+My role was helping to manage contributions through Github and to ease the process of contributing to Joomla. It allowed me to speak at international events to show the goodness of Joomla and to become mentor of the Google Summer of Code for Joomla."
+- experience:
+  role: Lead Developer
+  time: 2012 - 2014
+  company: redCOMPONENT, Odense
+  details: "Coordination of an international team of 29 developers from 10 different
+countries. Agile methodology implementation based on JIRA.
+Coding standards setup and use.
+Get developers using tools like git, time tracking, tests.
+Development of a custom framework for the company with connections
+with Doctrine & Symfony2 packages.
+Redesign redSHOP ecommerce system & integrate it with Twitter Bootstrap
+3"
+- experience:
+  role: Senior PHP developer
+  time: 2011 - 2012
+  company: Digital Disseny, S.L.
+  details: "Development of websites mostly based on Joomla, Magento , Prestashop &
+Drupal.
+Extension development for Joomla, Magento & Prestashop"
+- experience:
+  role: PHP developer
+  time: 2010 - 2011
+  company: Domatix, S.L.
+  details: "Development of websites mostly based on Joomla, Magento & Django
+Basic OpenERP (old Odoo) modules + Connections with Magento"
+- experience:
+  role: PHP developer
+  time: 2009 - 2010
+  company: Activexsoft, S.L.
+  details: "Develop custom solutions for travel agencies. Mostly focused on
+webservices systems to compare flights, hotels, etc.
+<br><br>
+Integrations with most used spanish payment systems like CECA &
+Sermepa."
+- experience:
+  role: Entrepeneur
+  time: 2001 - 2009
+  company: Mister Mod Informática
+  details: "I created my own company dedicated to create top performance computers, modding and maintaining clients systems. 
+<br><br>
+I got experienced managing a team of 5 people and experienced in managing Windows & Linux based servers."

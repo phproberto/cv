@@ -11,6 +11,9 @@
   name: Laravel
   level: 75%
 - skill:
+  name: Magento
+  level: 60%
+- skill:
   name: PHPUnit
   level: 75%
 - skill:

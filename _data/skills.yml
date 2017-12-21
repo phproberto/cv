@@ -1,11 +1,35 @@
 - skill:
-  name: PHP
-  level: 95%
+  name: API development
+  level: 90%
+- skill:
+  name: CI
+  level: 85%
+- skill:
+  name: Codeception
+  level: 75%
 - skill:
   name: Composer
   level: 75%
 - skill:
-  name: Symfony
+  name: DevOps
+  level: 70%
+- skill:
+  name: Docker
+  level: 75%
+- skill:
+  name: Git
+  level: 95%
+- skill:
+  name: Gulp.js
+  level: 85%
+- skill:
+  name: HTML5 & CSS
+  level: 95%
+- skill:
+  name: Javascript
+  level: 60%
+- skill:
+  name: Jekyll
   level: 75%
 - skill:
   name: Laravel
@@ -14,53 +38,32 @@
   name: Magento
   level: 60%
 - skill:
+  name: PHP
+  level: 95%
+- skill:
   name: PHPUnit
   level: 75%
 - skill:
-  name: Codeception
-  level: 75%
-- skill:
-  name: SonarQube
-  level: 75%
-- skill:
-  name: Git
-  level: 95%
-- skill:
-  name: API development
-  level: 90%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: DevOps
-  level: 70%
-- skill:
-  name: CI
-  level: 85%
-- skill:
-  name: Docker
-  level: 75%
-- skill:
-  name: Vagrant
+  name: Python & Django
   level: 50%
-- skill:
-  name: Jekyll
-  level: 75%
-- skill:
-  name: Sass, LESS, PostCSS
-  level: 90%
-- skill:
-  name: Javascript
-  level: 60%
-- skill:
-  name: Gulp.js
-  level: 85%
-- skill:
-  name: Vue.js
-  level: 40%
 - skill:
   name: React
   level: 60%
 - skill:
-  name: Python & Django
+  name: Sass, LESS, PostCSS
+  level: 90%
+- skill:
+  name: SonarQube
+  level: 75%
+- skill:
+  name: Symfony
+  level: 75%
+- skill:
+  name: Typescript
   level: 50%
+- skill:
+  name: Vagrant
+  level: 50%
+- skill:
+  name: Vue.js
+  level: 40%

@@ -12,4 +12,7 @@
   title: joomla-flysystem
   link: "https://github.com/phproberto/joomla-flysystem"
   tagline: "Flysystem filesystems integration for Joomla!"
-
+- project:
+  title: PHP Getters & Setters for VSCode
+  link: "https://marketplace.visualstudio.com/items?itemName=phproberto.vscode-php-getters-setters"
+  tagline: "My first Visual Studio Code extension to improve its PHP integration."

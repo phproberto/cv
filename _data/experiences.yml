@@ -1,5 +1,10 @@
 - experience:
   role: Lead Developer
+  time: 2018 - 2019
+  company: Lefebvre, Madrid
+  details: "Lead a team of 5 developers to maintain and improve a multisite application for lawyer firms."
+- experience:
+  role: Lead Developer
   time: 2015 - 2017
   company: redCOMPONENT, Odense
   details: "I joined the company for second time to convert an old content-management tool into a full CCK for <a href=\"http://joomla.org\">Joomla</a> focused on mixing content with marketing tools in the same tool. The result is <a href=\"http://www.aesircontextmarketing.com/\">Aesir</a>.
